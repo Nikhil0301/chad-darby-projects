@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.funny{
+	font-style: italic;
+	color: #0000ff;
+	font-size:25px;
+
+	background: #ff80c0;
+}
